@@ -1,0 +1,10 @@
+{
+  "theme": "Yellow",
+  "version": "1.0",
+  "last_updated": "2026-07-02",
+  "settings": {
+    "auto_save_logs": false,
+    "confidence_threshold": 0.5,
+    "detection_interval": 10
+  }
+}

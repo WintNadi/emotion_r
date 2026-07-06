@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Model files (too big for GitHub)
+*.h5
+*.hdf5
+*.pkl
+*.pb
+*.onnx
+
+# Data files (too big)
+*.csv
+*.npy
+*.npz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Mac junk
+.DS_Store
